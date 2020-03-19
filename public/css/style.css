@@ -4117,7 +4117,7 @@ ol {
 		display: block;
 		background: transparent;
 		text-align: center;
-		margin-top: -48px;
+		margin-top: -10px;
 	}
 	.slicknav_nav {
 		background: #333;
@@ -4134,13 +4134,13 @@ ol {
 		padding-left: 25px;
 	}
 	.nav-item .nav-depart {
-		display: none;
+		float: right;
 	}
 	.slicknav_btn {
 		border-radius: 0;
 		background-color: #8AC54B;
 		display: inline-block;
-		right: -16px;
+		right: -10px;
 	}
 	.slicknav_nav .slicknav_row,
 	.slicknav_nav a {
